@@ -1,0 +1,10 @@
+In order to run your code, you can dump your implementation into
+one of the three templates:
+
+* CppBot.cpp
+* JavaBot.java
+* py_bot.py
+
+Then, change the variables in "main.sh" to run whatever combination
+of bots you would like.  You can add multiple commands if you would
+like.
